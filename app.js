@@ -32,11 +32,11 @@ app.listen(port, ()=>{
 });
 
 const connection = mysql.createConnection({
-    //host: "localhost",
-    host: "157.245.138.14",
+    host: "localhost",
+    //host: "157.245.138.14",
     user: "root",
-    password: "D3nn|s|sC00l",
-    //password: "Kavanaugh17",
+    //password: "D3nn|s|sC00l",
+    password: "Kavanaugh17",
     database: "inf355_356_sports_blog"
 });
 
@@ -50,10 +50,12 @@ const session = require("express-session");
 const mysqlStore = require("express-mysql-session")(session);
 
 let databaseOptions = {
-    host: "157.245.138.14",
+    host: "localhost",
+    //host: "157.245.138.14",
     port: port,
     user: "root",
-    password: "D3nn|s|sC00l",
+    password: "Kavanaugh17",
+    //password: "D3nn|s|sC00l",
     database: "inf355_356_sports_blog",
     schema: {
         tableName: 'sessions',
