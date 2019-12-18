@@ -1,0 +1,32 @@
+<a class="btn btn-light" href="#!proFootballNewPost">Create Blog Post</a>
+<br />
+<a class="btn btn-light" href="#!main">All Sports</a>
+<br />
+<br />
+<div ng-init="getProFootball()">
+    <table class="table table-striped table-bordered" >
+        <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="x in proFootball">
+            <td>{{ x.post_id }}</td>
+            <td><a ng-href="#!proFootball/{{x.post_id}}">{{ x.title }}</a></td>
+        </tr>
+        </tbody>
+
+
+    </table>
+
+
+    <!--This is just having the titles and not having them in a table -->
+    <!--
+    <div ng-repeat="x in proFootball">
+        <a ng-href="#!proFootball/{{x.post_id}}">{{ x.title }}</a>
+    </div>
+    -->
+
+</div>

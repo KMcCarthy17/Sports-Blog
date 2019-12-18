@@ -1,0 +1,16 @@
+<h1>Create Post</h1>
+
+<form action="/probasketballnewpost" method="post">
+    <label>Title:</label>
+    <input ng-model="title" type="text" name="title" id="title" placeholder="Enter Title" required="required">
+    <br />
+    <label>Author:</label>
+    <input ng-model="author" type="text" name="author" id="author" placeholder="Enter Author" required="required">
+    <br />
+    <label>Body:</label>
+    <textarea ng-model="blog_body" type="text" cols="30" rows="10" name="blog_body" id="blog_body" placeholder="Enter Your Article" required="required"></textarea>
+    <br />
+    <a href="#" ng-click="submit($event)" class="btn btn-light">Submit Blog Post</a><br />
+
+
+</form>

@@ -1,0 +1,18 @@
+
+<h1>Login</h1>
+
+<form action="http://localhost:4444/login" method="post">
+    <label>Username:</label>
+    <input ng-model="username" type="text" name="username" id="username" placeholder="Enter username" required="required">
+    <br />
+    <label>Password:</label>
+    <input ng-model="password" type="password" name="password" id="password" placeholder="Enter password" required="required">
+    <br />
+    <div ng-if="errorMessage" class="font-weight-bold">{{ errorMessage }}</div>
+    <!--<input type="submit" name="submitButton" placeholder="Click to submit"/>-->
+    <a href="#" ng-click="submit($event)" class="btn btn-light">Login</a><br />
+    <br />
+    <a class="btn btn-light" href="#!register">Need To Register</a>
+
+
+</form>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8e5e1d4-263c-400e-818c-5569b371e9dc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UOXRmH5AMfSNxqQ7znQBUYKzTd" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kpm21\MyNodeProjects\mccarthy_inf356_final_project\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e5e1d4-263c-400e-818c-5569b371e9dc" name="Default Changelist" comment="" />
+      <created>1575228609044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575228609044</updated>
+      <workItem from="1575228610857" duration="4461000" />
+      <workItem from="1575312560879" duration="22000" />
+      <workItem from="1575312594465" duration="233000" />
+      <workItem from="1575312839371" duration="515000" />
+      <workItem from="1575313366566" duration="529000" />
+      <workItem from="1575313908814" duration="421000" />
+      <workItem from="1575314342449" duration="624000" />
+      <workItem from="1575315796273" duration="438000" />
+      <workItem from="1575489152013" duration="650000" />
+      <workItem from="1575490904594" duration="4759000" />
+      <workItem from="1575513033005" duration="4190000" />
+      <workItem from="1575567325307" duration="2839000" />
+      <workItem from="1575598082596" duration="1278000" />
+      <workItem from="1575644662873" duration="170000" />
+      <workItem from="1575644842220" duration="1594000" />
+      <workItem from="1575669181754" duration="143000" />
+      <workItem from="1575737998618" duration="1656000" />
+      <workItem from="1575742861206" duration="1932000" />
+      <workItem from="1575749335494" duration="630000" />
+      <workItem from="1575815937926" duration="11000" />
+      <workItem from="1575817360619" duration="627000" />
+      <workItem from="1575824826006" duration="628000" />
+      <workItem from="1575839912280" duration="681000" />
+      <workItem from="1575990410892" duration="16000" />
+      <workItem from="1575990434631" duration="2955000" />
+      <workItem from="1576027486067" duration="3108000" />
+      <workItem from="1576086952243" duration="3204000" />
+      <workItem from="1576095537170" duration="1714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
